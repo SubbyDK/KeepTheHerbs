@@ -23,6 +23,11 @@
 <li>They will be fixed as soon as I find them or as soon as someone report it.</li>
 </ul>
 <p>&nbsp;</p>
+<p><span style="font-size: 18px;"><strong>Known issues (WotLK):</strong></span></p>
+<ul>
+<li>Not at all made for WotLK, could need some help with that.</li>
+</ul>
+<p>&nbsp;</p>
 <p><span style="font-size: 18px;"><strong>Bug reports.</strong></span></p>
 <ul>
 <li><span lang="en"><span title="">Try to be as accurate as possible when reporting an error.</span></span></li>
